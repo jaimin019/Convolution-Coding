@@ -4,16 +4,6 @@ This project implements and analyzes **convolutional coding** in **MATLAB**, foc
 
 ---
 
-## 📁 Repository Contents
-
-- `main.m`: Main simulation script
-- `encode.m`: Function for convolutional encoding
-- `decode_viterbi.m`: Viterbi decoder implementation (hard & soft decision)
-- `helper_functions/`: Supporting utility files
-- `Report.pdf`: Detailed theoretical explanation and results
-
----
-
 ## 🧠 Key Concepts & Learning Outcomes
 
 - Fundamentals of **convolutional encoding** and **Viterbi decoding**
